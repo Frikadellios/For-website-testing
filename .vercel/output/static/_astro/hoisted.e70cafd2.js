@@ -1,1 +1,1 @@
-import"https://cdn.tailwindcss.com";
+import "https://cdn.tailwindcss.com";
